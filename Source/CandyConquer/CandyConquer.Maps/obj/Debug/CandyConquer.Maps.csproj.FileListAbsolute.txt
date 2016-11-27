@@ -1,0 +1,28 @@
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Maps\bin\Debug\CandyConquer.Maps.dll
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Maps\bin\Debug\CandyConquer.Maps.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Maps\obj\Debug\CandyConquer.Maps.dll
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Maps\obj\Debug\CandyConquer.Maps.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Maps\bin\Debug\CandyConquer.Debugging.dll
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Maps\bin\Debug\CandyConquer.Drivers.dll
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Maps\bin\Debug\CandyConquer.Debugging.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Maps\bin\Debug\CandyConquer.Drivers.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Maps\obj\Debug\CandyConquer.Maps.csprojResolveAssemblyReference.cache
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Maps\bin\Debug\CandyConquer.Security.dll
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Maps\bin\Debug\CandyConquer.Security.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Maps\bin\Debug\CandyConquer.Native.dll
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Maps\bin\Debug\CandyConquer.Native.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Maps\bin\Debug\ManagedOpenSsl.dll
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Maps\bin\Debug\CandyConquer.Maps.dll
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Maps\bin\Debug\CandyConquer.Maps.pdb
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Maps\bin\Debug\CandyConquer.Debugging.dll
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Maps\bin\Debug\CandyConquer.Drivers.dll
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Maps\bin\Debug\CandyConquer.Security.dll
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Maps\bin\Debug\CandyConquer.Native.dll
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Maps\bin\Debug\ManagedOpenSsl.dll
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Maps\bin\Debug\CandyConquer.Debugging.pdb
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Maps\bin\Debug\CandyConquer.Drivers.pdb
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Maps\bin\Debug\CandyConquer.Security.pdb
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Maps\bin\Debug\CandyConquer.Native.pdb
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Maps\obj\Debug\CandyConquer.Maps.csprojResolveAssemblyReference.cache
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Maps\obj\Debug\CandyConquer.Maps.dll
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Maps\obj\Debug\CandyConquer.Maps.pdb

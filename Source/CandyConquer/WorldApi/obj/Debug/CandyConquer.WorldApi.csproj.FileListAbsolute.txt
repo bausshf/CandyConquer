@@ -1,0 +1,52 @@
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\WorldApi\bin\Debug\CandyConquer.WorldApi.exe.config
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\WorldApi\bin\Debug\CandyConquer.WorldApi.exe
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\WorldApi\bin\Debug\CandyConquer.WorldApi.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\WorldApi\bin\Debug\CandyConquer.ApiServer.dll
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\WorldApi\bin\Debug\CandyConquer.Database.dll
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\WorldApi\bin\Debug\CandyConquer.Debugging.dll
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\WorldApi\bin\Debug\CandyConquer.Drivers.dll
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\WorldApi\bin\Debug\CandyConquer.Maps.dll
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\WorldApi\bin\Debug\CandyConquer.Security.dll
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\WorldApi\bin\Debug\CandyConquer.Compiler.dll
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\WorldApi\bin\Debug\CandySql.dll
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\WorldApi\bin\Debug\Candy.dll
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\WorldApi\bin\Debug\CandyConquer.Native.dll
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\WorldApi\bin\Debug\CandyConquer.ApiServer.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\WorldApi\bin\Debug\CandyConquer.Database.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\WorldApi\bin\Debug\CandyConquer.Debugging.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\WorldApi\bin\Debug\CandyConquer.Drivers.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\WorldApi\bin\Debug\CandyConquer.Maps.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\WorldApi\bin\Debug\CandyConquer.Security.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\WorldApi\bin\Debug\CandyConquer.Compiler.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\WorldApi\bin\Debug\CandySql.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\WorldApi\bin\Debug\Candy.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\WorldApi\bin\Debug\CandyConquer.Native.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\WorldApi\obj\Debug\CandyConquer.WorldApi.csprojResolveAssemblyReference.cache
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\WorldApi\obj\Debug\CandyConquer.WorldApi.exe
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\WorldApi\obj\Debug\CandyConquer.WorldApi.pdb
+C:\CandyConquer\Source\CandyConquer\WorldApi\bin\Debug\CandyConquer.WorldApi.exe.config
+C:\CandyConquer\Source\CandyConquer\WorldApi\bin\Debug\CandyConquer.WorldApi.exe
+C:\CandyConquer\Source\CandyConquer\WorldApi\bin\Debug\CandyConquer.WorldApi.pdb
+C:\CandyConquer\Source\CandyConquer\WorldApi\bin\Debug\Candy.dll
+C:\CandyConquer\Source\CandyConquer\WorldApi\bin\Debug\CandyConquer.ApiServer.dll
+C:\CandyConquer\Source\CandyConquer\WorldApi\bin\Debug\CandyConquer.Compiler.dll
+C:\CandyConquer\Source\CandyConquer\WorldApi\bin\Debug\CandyConquer.Database.dll
+C:\CandyConquer\Source\CandyConquer\WorldApi\bin\Debug\CandyConquer.Debugging.dll
+C:\CandyConquer\Source\CandyConquer\WorldApi\bin\Debug\CandyConquer.Drivers.dll
+C:\CandyConquer\Source\CandyConquer\WorldApi\bin\Debug\CandyConquer.Maps.dll
+C:\CandyConquer\Source\CandyConquer\WorldApi\bin\Debug\CandyConquer.Security.dll
+C:\CandyConquer\Source\CandyConquer\WorldApi\bin\Debug\CandySql.dll
+C:\CandyConquer\Source\CandyConquer\WorldApi\bin\Debug\CandyConquer.Native.dll
+C:\CandyConquer\Source\CandyConquer\WorldApi\bin\Debug\CandySql.pdb
+C:\CandyConquer\Source\CandyConquer\WorldApi\bin\Debug\Candy.pdb
+C:\CandyConquer\Source\CandyConquer\WorldApi\bin\Debug\CandyConquer.ApiServer.pdb
+C:\CandyConquer\Source\CandyConquer\WorldApi\bin\Debug\CandyConquer.Compiler.pdb
+C:\CandyConquer\Source\CandyConquer\WorldApi\bin\Debug\CandyConquer.Database.pdb
+C:\CandyConquer\Source\CandyConquer\WorldApi\bin\Debug\CandyConquer.Debugging.pdb
+C:\CandyConquer\Source\CandyConquer\WorldApi\bin\Debug\CandyConquer.Drivers.pdb
+C:\CandyConquer\Source\CandyConquer\WorldApi\bin\Debug\CandyConquer.Maps.pdb
+C:\CandyConquer\Source\CandyConquer\WorldApi\bin\Debug\CandyConquer.Security.pdb
+C:\CandyConquer\Source\CandyConquer\WorldApi\bin\Debug\CandyConquer.Native.pdb
+C:\CandyConquer\Source\CandyConquer\WorldApi\obj\Debug\CandyConquer.WorldApi.csprojResolveAssemblyReference.cache
+C:\CandyConquer\Source\CandyConquer\WorldApi\obj\Debug\CandyConquer.WorldApi.exe
+C:\CandyConquer\Source\CandyConquer\WorldApi\obj\Debug\CandyConquer.WorldApi.pdb

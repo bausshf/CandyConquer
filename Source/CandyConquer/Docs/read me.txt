@@ -1,0 +1,18 @@
+﻿Candy Conquer is a Conquer Online Private Server Source written in C#.
+
+It's the base project for ProjectX V5.
+
+To build the project you should right click on either world api or auth api and then build or run them.
+
+Do not attempt to build all projects as the script projects will fail to compile.
+
+Stripped features:
+	Tournament point system
+	Nobility game modes (Only traditional nobility is introduced in this version.)
+	Arena game modes (Only traditional arena is introduced in this version.)
+	Some security features.
+	
+Slightly not tested features:
+	Arena (It works, but has not been tested to the fulliest.)
+		Note: Arena watching is not currently working due to matches not showing in the client and I won't be fixing it in this version,
+		so wait for it to be fixed later or do it yourself.

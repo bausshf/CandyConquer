@@ -1,0 +1,24 @@
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Drivers\bin\Debug\CandyConquer.Drivers.dll
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Drivers\bin\Debug\CandyConquer.Drivers.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Drivers\obj\Debug\CandyConquer.Drivers.dll
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Drivers\obj\Debug\CandyConquer.Drivers.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Drivers\bin\Debug\CandyConquer.Debugging.dll
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Drivers\bin\Debug\CandyConquer.Debugging.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Drivers\obj\Debug\CandyConquer.Drivers.csprojResolveAssemblyReference.cache
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Drivers\bin\Debug\CandyConquer.Security.dll
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Drivers\bin\Debug\CandyConquer.Security.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Drivers\bin\Debug\CandyConquer.Native.dll
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Drivers\bin\Debug\CandyConquer.Native.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Drivers\bin\Debug\ManagedOpenSsl.dll
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Drivers\bin\Debug\CandyConquer.Drivers.dll
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Drivers\bin\Debug\CandyConquer.Drivers.pdb
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Drivers\bin\Debug\CandyConquer.Debugging.dll
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Drivers\bin\Debug\CandyConquer.Native.dll
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Drivers\bin\Debug\CandyConquer.Security.dll
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Drivers\bin\Debug\ManagedOpenSsl.dll
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Drivers\bin\Debug\CandyConquer.Debugging.pdb
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Drivers\bin\Debug\CandyConquer.Native.pdb
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Drivers\bin\Debug\CandyConquer.Security.pdb
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Drivers\obj\Debug\CandyConquer.Drivers.csprojResolveAssemblyReference.cache
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Drivers\obj\Debug\CandyConquer.Drivers.dll
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Drivers\obj\Debug\CandyConquer.Drivers.pdb

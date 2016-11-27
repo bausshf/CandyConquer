@@ -1,0 +1,75 @@
+﻿// Project by Bauss
+using System;
+using Candy;
+using CandyConquer.Maps;
+
+namespace CandyConquer.Database.Models
+{
+	/// <summary>
+	/// Database model for the 'Maps' table.
+	/// </summary>
+	[DataEntry(Name = "Maps", EntryPoint = ConnectionStrings.World)]
+	public sealed class DbMap : SqlModel<DbMap>
+	{
+		/// <summary>
+		/// Map type.
+		/// </summary>
+		public enum DbMapType
+		{
+			Normal,
+			NoPK,
+			SafePK,
+			NoSkills,
+			NoSkillsNoLogin,
+			NoLogin,
+			Tournament
+		}
+		
+		[DataIgnore(IgnoreType = DataIgnoreType.Write)]
+		[DataSpecialType(DataType = SpecialDataType.Id)]
+		public int Id { get; set; }
+		
+		[DataIgnore(IgnoreType = DataIgnoreType.Write)]
+		public string MapName { get; set; }
+		
+		[DataIgnore(IgnoreType = DataIgnoreType.Write)]
+		[DataSpecialType(DataType = SpecialDataType.AsString)]
+		[DataReadFormat(ReadFormat = "EnumExtensions.ToEnum<DbMap.DbMapType>(@value as string)",
+		                AssociatedNamespaces = new string[]
+		                {
+		                	"CandyConquer.Drivers",
+		                	"CandyConquer.Database.Models"
+		                })]
+		public DbMapType MapType { get; set; }
+		
+		[DataIgnore(IgnoreType = DataIgnoreType.Write)]
+		public int ClientMapId { get; set; }
+		
+		[DataIgnore(IgnoreType = DataIgnoreType.Write)]
+		public string Server { get; set; }
+		
+		[DataIgnore(IgnoreType = DataIgnoreType.Write)]
+		public int DMapId { get; set; }
+		
+		#pragma warning disable 649
+		private FCQMap _dmap;
+		#pragma warning restore 649
+		
+		[DataIgnore()]
+		public FCQMap DMap
+		{
+			get
+			{
+				if (UseDMap && _dmap == null)
+				{
+					_dmap = Dal.Maps.Get((ushort)DMapId);
+				}
+				
+				return _dmap;
+			}
+		}
+		
+		[DataIgnore(IgnoreType = DataIgnoreType.Write)]
+		public bool UseDMap { get; set; }
+	}
+}

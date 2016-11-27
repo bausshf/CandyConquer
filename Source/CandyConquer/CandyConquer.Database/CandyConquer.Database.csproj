@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{341F651A-8626-4075-B649-C552773CF927}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>Library</OutputType>
+    <RootNamespace>CandyConquer.Database</RootNamespace>
+    <AssemblyName>CandyConquer.Database</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <NoWin32Manifest>False</NoWin32Manifest>
+    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+    <NoStdLib>False</NoStdLib>
+    <TreatWarningsAsErrors>False</TreatWarningsAsErrors>
+    <IntermediateOutputPath>obj\$(Configuration)\</IntermediateOutputPath>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <BaseAddress>4194304</BaseAddress>
+    <RegisterForComInterop>False</RegisterForComInterop>
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+    <FileAlignment>4096</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE;LOCAL</DefineConstants>
+    <BaseIntermediateOutputPath>obj\</BaseIntermediateOutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConnectionStrings.cs" />
+    <Compile Include="Dal\Accounts.cs" />
+    <Compile Include="Dal\Avatars.cs" />
+    <Compile Include="Dal\DefaultCoordinates.cs" />
+    <Compile Include="Dal\DMaps.cs" />
+    <Compile Include="Dal\Drops.cs" />
+    <Compile Include="Dal\Equipments.cs" />
+    <Compile Include="Dal\Guilds.cs" />
+    <Compile Include="Dal\Inventories.cs" />
+    <Compile Include="Dal\Items.cs" />
+    <Compile Include="Dal\Maps.cs" />
+    <Compile Include="Dal\Monsters.cs" />
+    <Compile Include="Dal\Nobility.cs" />
+    <Compile Include="Dal\Npcs.cs" />
+    <Compile Include="Dal\PlayerArenaQualifiers.cs" />
+    <Compile Include="Dal\PlayerHouses.cs" />
+    <Compile Include="Dal\Players.cs" />
+    <Compile Include="Dal\Portals.cs" />
+    <Compile Include="Dal\Spells.cs" />
+    <Compile Include="Dal\Warehouses.cs" />
+    <Compile Include="Dal\Weathers.cs" />
+    <Compile Include="Dal\WhisperCache.cs" />
+    <Compile Include="Models\DbAccount.cs" />
+    <Compile Include="Models\DbActionTrace.cs" />
+    <Compile Include="Models\DbDefaultCoordinate.cs" />
+    <Compile Include="Models\DbDisconnectTrace.cs" />
+    <Compile Include="Models\DbDrop.cs" />
+    <Compile Include="Models\DbGuard.cs" />
+    <Compile Include="Models\DbGuild.cs" />
+    <Compile Include="Models\DbGuildAssociation.cs" />
+    <Compile Include="Models\DbGuildRank.cs" />
+    <Compile Include="Models\DbItem.cs" />
+    <Compile Include="Models\DbMap.cs" />
+    <Compile Include="Models\DbMonster.cs" />
+    <Compile Include="Models\DbMonsterSpawn.cs" />
+    <Compile Include="Models\DbNpc.cs" />
+    <Compile Include="Models\DbOwnerItems.cs" />
+    <Compile Include="Models\DbPacketTrace.cs" />
+    <Compile Include="Models\DbPlayer.cs" />
+    <Compile Include="Models\DbPlayerArenaQualifier.cs" />
+    <Compile Include="Models\DbPlayerHouse.cs" />
+    <Compile Include="Models\DbPlayerNobility.cs" />
+    <Compile Include="Models\DbPortal.cs" />
+    <Compile Include="Models\DbSpell.cs" />
+    <Compile Include="Models\DbSpellInfo.cs" />
+    <Compile Include="Models\DbWeather.cs" />
+    <Compile Include="Models\DbWhisper.cs" />
+    <Compile Include="Models\StringList.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Candy\CandySql\CandySql.csproj">
+      <Project>{1F40924C-EF2A-4527-9715-BC43C036ACA8}</Project>
+      <Name>CandySql</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Candy\Candy\Candy.csproj">
+      <Project>{FDDACCA9-ECCD-4A2B-ACB5-A630F32DFAE8}</Project>
+      <Name>Candy</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CandyConquer.Debugging\CandyConquer.Debugging.csproj">
+      <Project>{4F313DE9-0BB6-4D8B-A9D6-EDEB3D721779}</Project>
+      <Name>CandyConquer.Debugging</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CandyConquer.Drivers\CandyConquer.Drivers.csproj">
+      <Project>{7C37BCAC-8522-4691-AABA-A347CBEACB87}</Project>
+      <Name>CandyConquer.Drivers</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CandyConquer.Maps\CandyConquer.Maps.csproj">
+      <Project>{92009C60-D845-4E1F-88A8-DCA2EE91C4D2}</Project>
+      <Name>CandyConquer.Maps</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Dal" />
+    <Folder Include="Models" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

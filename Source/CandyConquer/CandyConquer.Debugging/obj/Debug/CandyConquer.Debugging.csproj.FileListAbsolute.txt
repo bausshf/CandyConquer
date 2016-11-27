@@ -1,0 +1,10 @@
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Debugging\bin\Debug\CandyConquer.Debugging.dll
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Debugging\bin\Debug\CandyConquer.Debugging.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Debugging\obj\Debug\CandyConquer.Debugging.csprojResolveAssemblyReference.cache
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Debugging\obj\Debug\CandyConquer.Debugging.dll
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Debugging\obj\Debug\CandyConquer.Debugging.pdb
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Debugging\bin\Debug\CandyConquer.Debugging.dll
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Debugging\bin\Debug\CandyConquer.Debugging.pdb
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Debugging\obj\Debug\CandyConquer.Debugging.csprojResolveAssemblyReference.cache
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Debugging\obj\Debug\CandyConquer.Debugging.dll
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Debugging\obj\Debug\CandyConquer.Debugging.pdb

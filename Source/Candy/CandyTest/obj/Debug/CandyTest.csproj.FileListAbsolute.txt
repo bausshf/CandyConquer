@@ -1,0 +1,10 @@
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\CandyTest\bin\Debug\CandyTest.exe.config
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\CandyTest\bin\Debug\CandyTest.exe
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\CandyTest\bin\Debug\CandyTest.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\CandyTest\bin\Debug\Candy.dll
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\CandyTest\bin\Debug\CandySql.dll
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\CandyTest\bin\Debug\CandySql.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\CandyTest\bin\Debug\Candy.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\CandyTest\obj\Debug\CandyTest.csprojResolveAssemblyReference.cache
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\CandyTest\obj\Debug\CandyTest.exe
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\CandyTest\obj\Debug\CandyTest.pdb

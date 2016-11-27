@@ -1,0 +1,6 @@
+﻿Candy is a ORM with a lot of flexibility and can target any kind of data.
+
+Please view Candy\read me.txt for more information.
+
+TODO:
+	Move id caching and association out of SqlModel and into DataModel.

@@ -1,0 +1,16 @@
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\CandySql_LoginSample\obj\Debug\CandySql_LoginSample.csprojResolveAssemblyReference.cache
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\CandySql_LoginSample\obj\Debug\CandySql_LoginSample.Windows.MainForm.resources
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\CandySql_LoginSample\obj\Debug\CandySql_LoginSample.Windows.MainScreen.resources
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\CandySql_LoginSample\obj\Debug\CandySql_LoginSample.Windows.RegisterScreen.resources
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\CandySql_LoginSample\obj\Debug\CandySql_LoginSample.csproj.GenerateResource.Cache
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\CandySql_LoginSample\bin\Debug\CandySql_LoginSample.exe.config
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\CandySql_LoginSample\bin\Debug\CandySql_LoginSample.exe
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\CandySql_LoginSample\bin\Debug\CandySql_LoginSample.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\CandySql_LoginSample\bin\Debug\Candy.dll
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\CandySql_LoginSample\bin\Debug\CandySql.dll
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\CandySql_LoginSample\bin\Debug\CandySql.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\CandySql_LoginSample\bin\Debug\Candy.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\CandySql_LoginSample\obj\Debug\CandySql_LoginSample.exe
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\CandySql_LoginSample\obj\Debug\CandySql_LoginSample.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\CandySql_LoginSample\obj\Debug\CandySql_LoginSample.Windows.LoginScreen.resources
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\CandySql_LoginSample\obj\Debug\CandySql_LoginSample.Windows.SuccessScreen.resources

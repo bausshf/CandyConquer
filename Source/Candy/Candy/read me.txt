@@ -1,0 +1,15 @@
+﻿Candy
+###################
+Candy is a very wide implementation of ORM.
+It's not using any existing ORM utilities and is completely written from scratch.
+The aim for candy is to provide a stable, fast and reliable ORM for any kind of data.
+Which means Candy can be used to read, write and update any kind of data to any kind of storage.
+Candy is not necessarily meant to be used for databases and with its abstraction can be used for anything,
+such as file structures, memory mappings etc.
+It caches values and properties to ensure a fast mapping from data to object or object to data.
+The whole mapping is done with "cached" reflection, keeping it fast and dynamic.
+For more information or examples please view the CandyTest project or any of the sample projects.
+
+Currently official implementations:
+CandySql - An implementation of Candy to Microsoft's Sql Server
+CandyMySql - An implementation of Candy to MySql (Coming soon, the design will be similar to CandySql.)

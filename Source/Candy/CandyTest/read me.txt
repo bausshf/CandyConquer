@@ -1,0 +1,6 @@
+﻿CandyTest
+###################
+A project for testing the aspects of Candy, as well as different Candy implementations.
+
+Tests:
+	SqlTest - A collection of tests with Candy.Sql

@@ -1,0 +1,90 @@
+﻿-- Merchant
+-- StringPacket
+-- Guilds
+	-- Recruit / Join
+	-- Donate
+	-- Leave
+	NPCs:
+		-- GuildDirector
+			-- Kick
+			-- Add Deputy
+			-- Remove Deputy
+			-- Add Allie
+			-- Remove Allie
+			-- Add Enemy
+			-- Remove Enemy
+		-- GWGuardian
+-- Teams
+-- Portals
+-- Weather (+Thunder)
+-- Rest of the chat types (whisper, team, guild, broadcast etc.)
+-- Interaction (Marriage / Divorce etc.)
+	NPCs:
+		-- LoveStone
+-- Drops
+-- Asynchronous Exception Raise
+-- Mobs
+-- Ancient Maze (WineZone) + Need the actual wine to enter
+	NPCs:
+		-- Alcoholic (The guy that takes the wine for teleport)
+-- Proficiency
+-- Spells
+-- Attack
+	-- Durability
+	-- Physical
+	-- Magic
+	-- Range
+-- Revive
+-- Add player messages (Also look for commented // send message etc.)
+-- Player Houses (Have different sizes for different prices)
+	NPCs:
+		-- House Agent (One per city.)
+-- Guild Houses
+	NPCs:
+		-- Guild House Agent
+Guards + monster behaviour.
+	-- MagicGuard (regular)
+	-- Physical guard
+	-- Death guard
+	-- Revive guard
+	-- Monster behaviour
+-- Rent paying (Player house) (Just need the npc option)
+-- VIP
+-- Warehouse
+	NPCs:
+		-- WHGuardian
+		-- All warehouse npcs
+		-- Guild warehouse
+		-- Player house warehouse
+-- Composition (+ VIP Composition)
+	NPCs:
+		-- The old guy beside (Bless + Enchant)
+-- DbUpgrade / MetUpgrade (This includes market upgrade too.)
+-- Repair (+ VIP Repair)
+--Nobility (Make a game mode to make it by rank (Once tournament system is implemented) or pay)
+-- Arena
+-- Tournament System + Scripting
+	NPCs:
+		-- TournyMaster
+-- Move all game modes + time intervals out of the source
+-- Refactor MapObjectController's update screen. Get rid of "is" and replace by "as" + get rid of casting, replace with "as".
+-- Weather Modes:
+	-- Mapbased:
+		Each map can have weathers enabled.
+		Can be controlled by everything and which weathers to show.
+	-- Seasons:
+		Weathers depends on seasons.
+			Maps must have seasons enabled, else no weather is shown.
+-- Move commands to scripting
+NPCs:
+	NPC : WeaponSocketing (BI)
+	NPC : BlacksmithLee Sockets (Market)
+	NPC : GemSocketing
+	JailGuard (+ The guy to teleport out)
+	ArenaGuard
+	Teleport to DC
+
+Packets to do:
+			GemSocketingPacket = 1027,
+			SobSpawnPacket = 1109,
+			SubClassPacket = 2320

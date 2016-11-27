@@ -1,0 +1,29 @@
+﻿CandySql
+###################
+A SQL implementation of Candy.
+This is only for Microsoft's sql server.
+
+For MySql please see CandyMySql.
+
+Why CandySql over the standard Sql implementation?
+CandySql builds upon the standard sql implementation, but utilizes in the Candy ORM.
+
+* Similar to EntityFramework, so if you're familiar with that; using Candy is not an issue.
+* A really flexible API.
+* Implementation can be customized to fit any need.
+* Types and values are cached, to give best performance.
+* Specialized type- and property attributes. (Such as id properties or timestamp properties.)
+* Compatible with any other ORM using Candy.
+* Customizable to the core.
+* Helper functions and extensions to utilize Candy even more, creating a really flexible sql API.
+* Fast implementation, does not require many lines of code to implement.
+* Query based, you write your queries, instead of relying on Linq to Sql, which gives you complete control over the generated sql query.
+* Custom read properties allowing you to decide how data is read, as well how type-conversions are handled.
+
+Sample projects:
+##################
+-	CandySql_LoginSample
+		A sample project of implementing a simple login system.
+		Note: The front end should not be implemented as shown in the example.
+		It should be implemented with a server - client connection to avoid security flaws.
+		It's merely there for the implementation to be used.

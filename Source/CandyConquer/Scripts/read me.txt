@@ -1,0 +1,5 @@
+﻿All script projects are located in the World database.
+
+You may not compile these projects and they exist only to be easily managed.
+
+All source files in these projects are compiled automatically during runtime if modified.

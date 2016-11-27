@@ -1,0 +1,20 @@
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Security\bin\Debug\CandyConquer.Security.dll
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Security\bin\Debug\CandyConquer.Security.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Security\obj\Debug\CandyConquer.Security.dll
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Security\obj\Debug\CandyConquer.Security.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Security\bin\Debug\CandyConquer.Debugging.dll
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Security\bin\Debug\CandyConquer.Debugging.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Security\obj\Debug\CandyConquer.Security.csprojResolveAssemblyReference.cache
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Security\bin\Debug\CandyConquer.Native.dll
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Security\bin\Debug\CandyConquer.Native.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Security\bin\Debug\ManagedOpenSsl.dll
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Security\bin\Debug\CandyConquer.Security.dll
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Security\bin\Debug\CandyConquer.Security.pdb
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Security\bin\Debug\CandyConquer.Debugging.dll
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Security\bin\Debug\CandyConquer.Native.dll
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Security\bin\Debug\ManagedOpenSsl.dll
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Security\bin\Debug\CandyConquer.Debugging.pdb
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Security\bin\Debug\CandyConquer.Native.pdb
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Security\obj\Debug\CandyConquer.Security.csprojResolveAssemblyReference.cache
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Security\obj\Debug\CandyConquer.Security.dll
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Security\obj\Debug\CandyConquer.Security.pdb

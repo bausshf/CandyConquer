@@ -1,0 +1,10 @@
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\Candy\bin\Debug\Candy.dll
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\Candy\bin\Debug\Candy.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\Candy\obj\Debug\Candy.csprojResolveAssemblyReference.cache
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\Candy\obj\Debug\Candy.dll
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\Candy\obj\Debug\Candy.pdb
+C:\CandyConquer\Source\Candy\Candy\bin\Debug\Candy.dll
+C:\CandyConquer\Source\Candy\Candy\bin\Debug\Candy.pdb
+C:\CandyConquer\Source\Candy\Candy\obj\Debug\Candy.dll
+C:\CandyConquer\Source\Candy\Candy\obj\Debug\Candy.pdb
+C:\CandyConquer\Source\Candy\Candy\obj\Debug\Candy.csprojResolveAssemblyReference.cache

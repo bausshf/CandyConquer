@@ -1,0 +1,2 @@
+﻿The Candy implementation here is a modified version of the original to suit my needs for the server,
+which means the MySql implementation is stripped out.

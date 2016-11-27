@@ -1,0 +1,14 @@
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\CandySql\bin\Debug\CandySql.dll
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\CandySql\bin\Debug\CandySql.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\CandySql\bin\Debug\Candy.dll
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\CandySql\bin\Debug\Candy.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\CandySql\obj\Debug\CandySql.csprojResolveAssemblyReference.cache
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\CandySql\obj\Debug\CandySql.dll
+C:\Users\mor\Documents\SharpDevelop Projects\Candy\CandySql\obj\Debug\CandySql.pdb
+C:\CandyConquer\Source\Candy\CandySql\bin\Debug\CandySql.dll
+C:\CandyConquer\Source\Candy\CandySql\bin\Debug\CandySql.pdb
+C:\CandyConquer\Source\Candy\CandySql\bin\Debug\Candy.dll
+C:\CandyConquer\Source\Candy\CandySql\bin\Debug\Candy.pdb
+C:\CandyConquer\Source\Candy\CandySql\obj\Debug\CandySql.csprojResolveAssemblyReference.cache
+C:\CandyConquer\Source\Candy\CandySql\obj\Debug\CandySql.dll
+C:\CandyConquer\Source\Candy\CandySql\obj\Debug\CandySql.pdb

@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{EF873AAB-AB87-4701-967D-60D6A3DF8ACA}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>Library</OutputType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <NoWin32Manifest>False</NoWin32Manifest>
+    <SignAssembly>False</SignAssembly>
+    <DelaySign>False</DelaySign>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+    <NoStdLib>False</NoStdLib>
+    <TreatWarningsAsErrors>True</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <RunCodeAnalysis>False</RunCodeAnalysis>
+    <SourceAnalysisOverrideSettingsFile>C:\Users\mor\AppData\Roaming\ICSharpCode/SharpDevelop4\Settings.SourceAnalysis</SourceAnalysisOverrideSettingsFile>
+    <IntermediateOutputPath>obj\$(Configuration)\</IntermediateOutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <Prefer32Bit>True</Prefer32Bit>
+    <BaseAddress>4194304</BaseAddress>
+    <RegisterForComInterop>False</RegisterForComInterop>
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+    <FileAlignment>4096</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>False</DebugSymbols>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DebugType>None</DebugType>
+    <OutputPath>bin\Release\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DebugType>None</DebugType>
+    <StartAction>Program</StartAction>
+    <BaseIntermediateOutputPath>obj\</BaseIntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Alcoholic" />
+    <Folder Include="Alcoholic\Localization" />
+    <Folder Include="ArtisanWind" />
+    <Folder Include="BlessedGearMaster" />
+    <Folder Include="BlessedGearMaster\Localization" />
+    <Folder Include="Conductress" />
+    <Folder Include="Conductress\Localization" />
+    <Folder Include="Global" />
+    <Folder Include="Global\Messages" />
+    <Folder Include="Global\Messages\Localization" />
+    <Folder Include="GuildDirector" />
+    <Folder Include="GuildDirector\Localization" />
+    <Folder Include="GWGuardian" />
+    <Folder Include="GWGuardian\Localization" />
+    <Folder Include="HouseAgents" />
+    <Folder Include="HouseAgents\Localization" />
+    <Folder Include="LoveStone" />
+    <Folder Include="LoveStone\Localization" />
+    <Folder Include="TournyMaster" />
+    <Folder Include="TournyMaster\Localization" />
+    <Folder Include="Warehouses" />
+    <Folder Include="Warehouses\Localization" />
+    <Folder Include="WuXingOven" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Alcoholic\Alcoholic.cs" />
+    <Compile Include="Alcoholic\Localization\English.cs" />
+    <Compile Include="Alcoholic\Messages.cs" />
+    <Compile Include="ArtisanWind\ArtisanWind.cs" />
+    <Compile Include="BlessedGearMaster\BlessedGearMaster.cs" />
+    <Compile Include="BlessedGearMaster\Localization\English.cs" />
+    <Compile Include="BlessedGearMaster\Messages.cs" />
+    <Compile Include="Conductress\Conductress.cs" />
+    <Compile Include="Conductress\Localization\English.cs" />
+    <Compile Include="Conductress\Messages.cs" />
+    <Compile Include="Global\Messages\Handler.cs" />
+    <Compile Include="Global\Messages\Localization\English.cs" />
+    <Compile Include="GuildDirector\GuildDirector.cs" />
+    <Compile Include="GuildDirector\Localization\English.cs" />
+    <Compile Include="GuildDirector\Messages.cs" />
+    <Compile Include="GWGuardian\GWGuardian.cs" />
+    <Compile Include="GWGuardian\Localization\English.cs" />
+    <Compile Include="GWGuardian\Messages.cs" />
+    <Compile Include="HouseAgents\HouseAgents.cs" />
+    <Compile Include="HouseAgents\Localization\English.cs" />
+    <Compile Include="HouseAgents\Messages.cs" />
+    <Compile Include="LoveStone\Localization\English.cs" />
+    <Compile Include="LoveStone\LoveStone.cs" />
+    <Compile Include="LoveStone\Messages.cs" />
+    <Compile Include="TournyMaster\Localization\English.cs" />
+    <Compile Include="TournyMaster\Messages.cs" />
+    <Compile Include="TournyMaster\TournyMaster.cs" />
+    <Compile Include="Warehouses\Localization\English.cs" />
+    <Compile Include="Warehouses\Messages.cs" />
+    <Compile Include="Warehouses\Warehouses.cs" />
+    <Compile Include="WuXingOven\WuXingOven.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

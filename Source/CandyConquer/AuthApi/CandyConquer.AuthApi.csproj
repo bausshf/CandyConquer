@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{8B6AB517-EC72-47B0-96E8-223D0C00F044}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>CandyConquer.AuthApi</RootNamespace>
+    <AssemblyName>AuthApi</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <NoWin32Manifest>False</NoWin32Manifest>
+    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+    <NoStdLib>False</NoStdLib>
+    <TreatWarningsAsErrors>False</TreatWarningsAsErrors>
+    <IntermediateOutputPath>obj\$(Configuration)\</IntermediateOutputPath>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <BaseAddress>4194304</BaseAddress>
+    <RegisterForComInterop>False</RegisterForComInterop>
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+    <FileAlignment>4096</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <BaseIntermediateOutputPath>obj\</BaseIntermediateOutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controllers\Network\ConnectionController.cs" />
+    <Compile Include="Controllers\Packets\AuthRequestController.cs" />
+    <Compile Include="Enums\AuthenticationStatus.cs" />
+    <Compile Include="Models\Client\AuthClient.cs" />
+    <Compile Include="AuthServer.cs" />
+    <Compile Include="Models\Packets\AuthRequestPacket.cs" />
+    <Compile Include="Models\Packets\AuthResponsePacket.cs" />
+    <Compile Include="Models\Packets\PasswordSeedPacket.cs" />
+    <Compile Include="Models\Server\ServerInfo.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\Server\ServerList.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Candy\CandySql\CandySql.csproj">
+      <Project>{1F40924C-EF2A-4527-9715-BC43C036ACA8}</Project>
+      <Name>CandySql</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Candy\Candy\Candy.csproj">
+      <Project>{FDDACCA9-ECCD-4A2B-ACB5-A630F32DFAE8}</Project>
+      <Name>Candy</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CandyConquer.ApiServer\CandyConquer.ApiServer.csproj">
+      <Project>{63F8DD89-1072-4312-AC22-FC274052D48B}</Project>
+      <Name>CandyConquer.ApiServer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CandyConquer.Database\CandyConquer.Database.csproj">
+      <Project>{341F651A-8626-4075-B649-C552773CF927}</Project>
+      <Name>CandyConquer.Database</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CandyConquer.Debugging\CandyConquer.Debugging.csproj">
+      <Project>{4F313DE9-0BB6-4D8B-A9D6-EDEB3D721779}</Project>
+      <Name>CandyConquer.Debugging</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CandyConquer.Drivers\CandyConquer.Drivers.csproj">
+      <Project>{7C37BCAC-8522-4691-AABA-A347CBEACB87}</Project>
+      <Name>CandyConquer.Drivers</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CandyConquer.Native\CandyConquer.Native.csproj">
+      <Project>{0278EE0E-A9DD-4BA7-818B-BF8DE7BD2247}</Project>
+      <Name>CandyConquer.Native</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CandyConquer.Security\CandyConquer.Security.csproj">
+      <Project>{927E827C-8478-48BC-8170-04F11CD1AE48}</Project>
+      <Name>CandyConquer.Security</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Controllers\Network" />
+    <Folder Include="Controllers\Packets" />
+    <Folder Include="Models" />
+    <Folder Include="Models\Client" />
+    <Folder Include="Enums" />
+    <Folder Include="Models\Packets" />
+    <Folder Include="Models\Server" />
+    <Folder Include="Controllers" />
+    <Folder Include="Repositories" />
+    <Folder Include="Repositories\Server" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,10 @@
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Native\obj\Debug\CandyConquer.Native.csprojResolveAssemblyReference.cache
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Native\bin\Debug\CandyConquer.Native.dll
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Native\bin\Debug\CandyConquer.Native.pdb
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Native\obj\Debug\CandyConquer.Native.dll
+C:\Users\mor\Documents\SharpDevelop Projects\CandyConquer\CandyConquer.Native\obj\Debug\CandyConquer.Native.pdb
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Native\bin\Debug\CandyConquer.Native.dll
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Native\bin\Debug\CandyConquer.Native.pdb
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Native\obj\Debug\CandyConquer.Native.dll
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Native\obj\Debug\CandyConquer.Native.pdb
+C:\CandyConquer\Source\CandyConquer\CandyConquer.Native\obj\Debug\CandyConquer.Native.csprojResolveAssemblyReference.cache
